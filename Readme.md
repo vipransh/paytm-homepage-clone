@@ -10,4 +10,4 @@ It was an amazing experience to learn about  Tailwind CSS properties while devel
 It  was my first project with tailwind css ,it took almost 8 hour to complete this project.
 
 [Live-Link](https://paytm-clone-vipransh.netlify.app/)
- 
+ ![image](resources/screencapture.png)
